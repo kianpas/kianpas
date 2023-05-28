@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![kianpas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianpas)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kianpas))
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianpas&layout=compact)](https://github.com/kianpas)
 <!--
